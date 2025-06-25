@@ -1,6 +1,6 @@
 # 📦 Pasta Hardware
 
-Este diretório é destinado exclusivamente ao desenvolvimento e à documentação do hardware do projeto SmartDoor.
+Este diretório é destinado exclusivamente ao desenvolvimento e à documentação do hardware do projeto SenseClima.
 
 ## Conteúdo esperado
 
