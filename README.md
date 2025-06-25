@@ -29,7 +29,7 @@ Desenvolver um dispositivo embarcado capaz de realizar leituras periódicas de t
 
 ### Recebimento via MQTT
 
-- Escutar comandos para ajuste do intervalo de envio de dados.
+- Escutar comandos para ajuste dos intervalos de leitura de envio de dados.
 
 ### Economia de Energia
 
@@ -63,15 +63,16 @@ Desenvolver um dispositivo embarcado capaz de realizar leituras periódicas de t
 
 ## 📋 Critérios de Avaliação
 
-- Funcionamento do envio dos dados via MQTT.
-- Controle remoto do intervalo de leitura.
+- Funcionamento correto do envio dos dados de temperatura e umidade via MQTT.
+- Controle remoto dos intervalos de leitura e envio de dados.
 - Uso correto dos tópicos MQTT.
-- Documentação completa na Wiki do GitHub com progresso e dificuldades.
-- Projeto de PCB funcional e documentado.
+- Documentação completa na Wiki do GitHub com progresso e dificuldades encontradas.  
+  - Exemplo de documentação: [Hands-On Linux Wiki](https://github.com/rafaelfacioni/Hands-On-Linux/wiki)  
+- Projeto de PCB funcional e documentado na Wiki.
 - Implementação de baixo consumo de energia.
-- Apresentação funcional do projeto.
-- *(Opcional)* Registro pessoal com aprendizados adquiridos.
+- Apresentação prática do projeto final.
+- *(Opcional)* Registro pessoal na Wiki com os principais aprendizados adquiridos ao longo do curso.
 
 ---
 
-> Projeto desenvolvido no Módulo 4 do Curso de Capacitação em Sistemas Embarcados com o iMCP HTNB32L – Hana Embedded.
+> Este projeto faz parte do Módulo 4 do Curso de Capacitação em Sistemas Embarcados com o iMCP HTNB32L.
